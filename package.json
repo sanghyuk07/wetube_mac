@@ -1,0 +1,12 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "cloning Wetube with vanilla and NodeJS",
+  "main": "index.js",
+  
+  "author": "sanghyuk",
+  
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
